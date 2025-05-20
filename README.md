@@ -11,7 +11,9 @@ NOTE - "IN THESE REPOSITORY I HAVE USED MY CREDENTIALS, SO KINDLY DO NOT USE MY 
 Step 4 : 
 Before Starting the Spring-boot Application you must have to insert the Values in the Tables of Database which you have created.
 
-* * * * * * * * * * * * * * * * * * * * * EXAMPLE/execute the query SAMPLE SQL QUERY are as follows * * * * * * * * * * * * * * * * * * * * *  
+
+
+ EXAMPLE/execute the query SAMPLE SQL QUERY are as follows,
 
 create database ecommerce;
 
@@ -61,7 +63,7 @@ The "Ecomm-UI" is Your Front end Folder , So you open these folder in Vs-code ID
 Your Application Runs Successfull on web browser
 
 
-----------------------------------------------------------------------TECHNOLOGY STACK---------------------------------------------------------------------------------
+----------------------------------------------TECHNOLOGY STACK---------------------------------------------------------
 
 
 Backend : Spring-boot, Spring Starter Project
